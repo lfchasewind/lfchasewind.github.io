@@ -1,24 +1,21 @@
-# Libretto - Jekyll Theme
+## HCZ Material theme
 
-Libretto is a responsive one-column Jekyll theme with classic styling and careful typographic details.
+This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
 
-Based on the [Libretto Wordpress theme](https://wordpress.org/themes/libretto/).
+### Demo
+* [http://aboutashu.com/hcz-jekyll-blog](http://aboutashu.com/hcz-jekyll-blog/)
 
-## Install and Test
+#### Feature
 
-1. Download or clone the repo
-  - `git clone git@github.com:ferrolho/jekyll-theme-libretto.git`
-2. Enter the folder
-  - `cd jekyll-theme-libretto/`
-3. Start Jekyll server
-  - `jekyll serve --watch`
-4. Access via
-  - http://127.0.0.1:4000/jekyll-theme-libretto/
+* Sitemap and XML Feed
+* Projects and tags
+* Paginations in homepage
+* Posts under category
+* Related Posts
+* Highlight pre
+* Next & Previous Post
+* Disqus comment
 
-## Demo
+#### Screenshot
 
-- https://ferrolho.github.io/jekyll-theme-libretto/
-
-## Preview
-
-![Theme preview](http://i.imgur.com/2ZCmoKo.png)
+![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
